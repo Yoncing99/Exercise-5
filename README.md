@@ -35,3 +35,5 @@ e) mutator methods
 setHeight(double len), setBase(double b), set(double len, double b)
 
 ### Task 3
+
+![image](https://user-images.githubusercontent.com/55395418/79048834-55fc9300-7c52-11ea-89b3-bfb4e7123d02.png)
