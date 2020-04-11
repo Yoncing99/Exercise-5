@@ -9,9 +9,9 @@ public class TriangleDemo{
         Triangle tr = new Triangle();
         // Prompt user to input value for height and base   
         System.out.println("What is the height?");          
-        int height = sc.nextInt();
+        double height = sc.nextInt();
         System.out.println("What is the base?");          
-        int base = sc.nextInt();
+        double base = sc.nextInt();
         //Set the height and base (use mutator) 
         tr.set(height,base);
         // Display the height, base and area (use accessor)
